@@ -1,8 +1,10 @@
-# cisco-dnac-show-diff-stats
+# Cisco DNA Center - show difference counter in real-time
 ---
 
 ## Why?
-I hope this sample code helps people create tools and then reduce the time to find the root cause of the problems by visualizing the latest error counter that shows how much increased since this program was executed.
+If you have to perform some troubleshooting, this sample code may be helpful. This is because finding out which counter value is increasing is as essential as understanding the root cause of the problems occurring in the network devices.
+
+This tool can easily visualize the difference of the counter, such as 'show interface stats' and 'show interface,' which shows how much increased since this program was executed.
 
 A sample code will also help you understand the command runner, one of the DNAC API features, and Genie parser.
 
