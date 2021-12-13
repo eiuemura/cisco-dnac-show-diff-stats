@@ -25,7 +25,7 @@ This is Cisco Sample Code!
 ## Installation
 
 ```
-git clone git clone https://github.com/eiuemura/cisco-dnac-show-diff-stats
+git clone https://github.com/eiuemura/cisco-dnac-show-diff-stats
 ```
 
 ```
