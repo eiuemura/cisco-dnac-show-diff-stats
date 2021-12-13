@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/eiuemura/cisco-dnac-show-diff-stats)
+
 # Cisco DNA Center - show difference counter in real-time
 ---
 
