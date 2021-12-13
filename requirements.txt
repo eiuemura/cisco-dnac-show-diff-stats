@@ -1,0 +1,8 @@
+json
+requests
+urllib3
+requests
+pprint
+pyats[library]
+numpy
+matplotlib
