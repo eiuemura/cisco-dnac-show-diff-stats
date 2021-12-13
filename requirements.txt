@@ -2,7 +2,7 @@ json
 requests
 urllib3
 requests
-pprint
+prettyprinter
 pyats[library]
 numpy
 matplotlib
