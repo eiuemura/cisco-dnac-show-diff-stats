@@ -48,4 +48,5 @@ sudo apt-get install python3-gi-cairo
 ```
 
 ### Sample Screenshot
-./img/movie01.gif
+
+![](./img/movie01.gif)
