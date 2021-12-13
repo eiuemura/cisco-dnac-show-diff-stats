@@ -2,13 +2,11 @@
 ---
 
 ## Why?
-I hope that this sample code helps people create tools and then reduce the time to find the problem by visualizing increasing the latest error counter.
+I hope this sample code helps people create tools and then reduce the time to find the root cause of the problems by visualizing the latest error counter that shows how much increased since this program was executed.
 
 A sample code will also help you understand the command runner, one of the DNAC API features, and Genie parser.
 
 ## Technologies & Frameworks Used
-
-This is Cisco Sample Code!
 
 **Cisco Products & Services:**
 
