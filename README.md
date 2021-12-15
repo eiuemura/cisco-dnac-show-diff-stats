@@ -24,7 +24,15 @@ A sample code will also help you understand the command runner, one of the DNAC 
 - Genie: Command paser(pyATS)
 - Matplotlib: Visualization with Python
 
+## Platform
+The pyATS ecosystem runs in a Linux® or Linux-type environment. You can install pyATS on any of the following platforms:
+
+- Most flavors of Linux, including Ubuntu®, CentOS, and Fedora, for example
+- macOS (previously Mac OS X)
+- [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install)
+
 ## Installation
+
 
 ```
 git clone https://github.com/eiuemura/cisco-dnac-show-diff-stats
